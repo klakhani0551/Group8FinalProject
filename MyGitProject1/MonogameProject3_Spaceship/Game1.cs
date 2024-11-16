@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
-
+//some comment
 namespace MonogameProject3_Spaceship
 {
     public class Game1 : Game
